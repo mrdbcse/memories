@@ -16,6 +16,7 @@
 	positon: absolute;
 	top: 20%;
 	font-size: 100px;
+	text-transform: uppercase;
 }
 .headerImage {
 	width: 100%;

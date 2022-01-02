@@ -1,3 +1,4 @@
 1. create a new react app
 2. choose google fonts
 3. Topnav component added
+4. Header Cmponent and Home page added
